@@ -1,0 +1,8 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õ³©ª8Œ¥å•†.
+Msquid:S1602",Remove useless curly braces around statement(ëçùµùÿÿÿÿ8Œ¥å•†.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾¾Ó²üÿÿÿÿ8ÕÐå•†.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( Ô­òûÿÿÿÿ8Œ¥å•†.
+]squid:S3457"AFormat specifiers should be used instead of string concatenation.(¤ÜÍ 8Œ¥å•†.
+Msquid:S1602",Remove useless curly braces around statement(±ë¹Ñùÿÿÿÿ8Œ¥å•†.
