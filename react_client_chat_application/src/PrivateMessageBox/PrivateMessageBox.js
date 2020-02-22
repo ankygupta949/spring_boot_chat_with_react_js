@@ -51,6 +51,7 @@ class PrivateMessageBox extends Component {
     onConnected = () => {
         console.log("PrivateMessageBox.js ===========> onConnected()")
         // Subscribing to the private topic for getting private chat data (sent from this user to other user or vice versa)
+        // prefix /user must mention in WebSocketConfig.java class at server side
         stompClient.subscribe('/user/' + this.props.otherUser.toString().toLowerCase() + '/reply', this.onMessageReceived);
 
 

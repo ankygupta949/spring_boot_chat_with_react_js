@@ -67,6 +67,7 @@ class ChatMessageBox extends Component {
     })
 
     // Subscribing to the public topic
+      // prefix /topic must mention in WebSocketConfig.java class at server side
     stompClient.subscribe('/topic/pubic', this.onMessageReceived);
 
 

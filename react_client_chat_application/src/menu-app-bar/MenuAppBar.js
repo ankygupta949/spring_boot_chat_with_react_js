@@ -58,7 +58,8 @@ export default class MenuAppBar extends React.Component {
   onConnected = () => {
 
     // Subscribing to the private topic
-    stompClient.subscribe('/user/' + this.props.username.toString().toLowerCase() + '/reply', this.onMessageReceived);
+      // prefix /user must mention in WebSocketConfig.java class at server side
+      stompClient.subscribe('/user/' + this.props.username.toString().toLowerCase() + '/reply', this.onMessageReceived);
     // Registering user to server as a private chat user
     stompClient.send('/app/addPrivateUser', {}, JSON.stringify({ sender: this.props.username, type: 'JOIN' }))
   }
