@@ -1,8 +1,10 @@
 
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õ³©ª8Œ¥å•†.
-Msquid:S1602",Remove useless curly braces around statement(ëçùµùÿÿÿÿ8Œ¥å•†.
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾¾Ó²üÿÿÿÿ8ÕÐå•†.
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( Ô­òûÿÿÿÿ8Œ¥å•†.
-]squid:S3457"AFormat specifiers should be used instead of string concatenation.(¤ÜÍ 8Œ¥å•†.
-Msquid:S1602",Remove useless curly braces around statement(±ë¹Ñùÿÿÿÿ8Œ¥å•†.
+[
+squid:S106x"9Replace this use of System.out or System.err by a logger.(¾¾Ó²üÿÿÿÿ8ÕÐå•†.
+_squid:S3457<"AFormat specifiers should be used instead of string concatenation.(¤ÜÍ 8Œ¥å•†.
+Osquid:S1602t",Remove useless curly braces around statement(±ë¹Ñùÿÿÿÿ8Œ¥å•†.
+Osquid:S1602d",Remove useless curly braces around statement(ëçùµùÿÿÿÿ8Úƒ£å†.
+Osquid:S1612y",Replace this lambda with a method reference.(ÊÊ¾¸øÿÿÿÿ8õ›÷¿†.
+Osquid:S1602z",Remove useless curly braces around statement(¢­äîþÿÿÿÿ8Œ¥å•†.
+nsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.( Ô­òûÿÿÿÿ8Œ¥å•†.
+isquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(õ³©ª8Œ¥å•†.

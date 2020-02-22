@@ -8,7 +8,7 @@ import java.util.List;
 public class GroupMessage {
     private MessageType type;
     private String content;
-    private List<String> users;
+    private List<User> users;
     private String sender;
     private String groupName;
     private LocalDateTime dateTime=LocalDateTime.now();
@@ -29,11 +29,11 @@ public class GroupMessage {
         this.content = content;
     }
 
-    public List<String> getUsers() {
+    public List<User> getUsers() {
         return users;
     }
 
-    public void setUsers(List<String> users) {
+    public void setUsers(List<User> users) {
         this.users = users;
     }
 

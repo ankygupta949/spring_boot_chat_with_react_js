@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b58cc37-c9a2-48b9-9b94-252794ed8a2f" name="Default Changelist" comment="" />
+    <list default="true" id="3b58cc37-c9a2-48b9-9b94-252794ed8a2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../react_client_chat_app/src/app/components/UserMessages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/440d082ba1a21f8126008f7aa88a33934568cd4c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/440d082ba1a21f8126008f7aa88a33934568cd4c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c37d32388afbf450256b82f301c0db4205f77000" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c37d32388afbf450256b82f301c0db4205f77000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f29ed038434abd7e80f2eeb82c580b6104d1f4c6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f29ed038434abd7e80f2eeb82c580b6104d1f4c6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/controller/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/controller/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/controller/ChatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/model/GroupMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/model/GroupMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/5/0/50c72663d5be3fd5b55fa5a5f130b2bebfd2526a" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/5/0/50c72663d5be3fd5b55fa5a5f130b2bebfd2526a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/a/e/aeecb04da2f19061ec90a4dd522bd0711bd467d6" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/a/e/aeecb04da2f19061ec90a4dd522bd0711bd467d6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/d/6/d637d84cf79965b11fe5381f80baef753610726f" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/d/6/d637d84cf79965b11fe5381f80baef753610726f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/e/b/eb8beec928acf82226b22c20df5ec4dacf422ac9" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/e/b/eb8beec928acf82226b22c20df5ec4dacf422ac9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/dist/app/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/dist/app/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/src/app/components/chatBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/src/app/components/chatBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/src/app/reducers/rootreducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/src/app/reducers/rootreducers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/src/app/reducers/userreducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/src/app/reducers/userreducers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/1/7/17119328d892a87a259bb4ad2ff965e11eae7857" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/1/7/17119328d892a87a259bb4ad2ff965e11eae7857" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/3/5/35a1d4d30e322e7c9f4dc92eedaf92e97b72d211" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/3/5/35a1d4d30e322e7c9f4dc92eedaf92e97b72d211" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/5/f/5fa001ce9b45c0f4c30097163870a47608225553" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/5/f/5fa001ce9b45c0f4c30097163870a47608225553" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_application/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_client_chat_application/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_application/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +50,7 @@
     <session id="868112985">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
@@ -31,19 +58,20 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="8" />
           <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="847" />
+          <entry key="JAVA" value="1284" />
           <entry key="Properties" value="6" />
           <entry key="XML" value="2" />
         </counts>
@@ -81,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/app/controller/ChatController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="93" column="67" selection-start-line="93" selection-start-column="55" selection-end-line="93" selection-end-column="67" />
+            <state relative-caret-position="175">
+              <caret line="86" column="4" lean-forward="true" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/app/model/ChatMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,18 +151,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
+            <state relative-caret-position="119">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,8 +167,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/app/enums/MessageType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="119">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/app/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,10 +197,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -172,11 +218,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/app/config/WebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/app/model/ChatMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/app/controller/WebSocketEventListener.java" />
-        <option value="$PROJECT_DIR$/src/main/java/app/controller/ChatController.java" />
         <option value="$PROJECT_DIR$/src/main/java/app/enums/MessageType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/app/controller/ChatController.java" />
       </list>
     </option>
   </component>
@@ -196,9 +243,10 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="75" />
     <option name="y" value="44" />
-    <option name="width" value="1271" />
+    <option name="width" value="1281" />
     <option name="height" value="704" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -295,8 +343,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582043621965" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../React_JS_Projects/test" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582295057363" />
+    <property name="last_opened_file_path" value="$USER_HOME$/TTN/projects/motus/bankingapp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -351,11 +399,12 @@
       <workItem from="1582028821258" duration="2370000" />
       <workItem from="1582105991349" duration="7660000" />
       <workItem from="1582187068363" duration="7277000" />
+      <workItem from="1582370211451" duration="2658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40197000" />
+    <option name="totallyTimeSpent" value="47139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -371,7 +420,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2881356" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21088435" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27118644" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -408,7 +457,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/app/controller/ChatController.java</url>
-          <line>94</line>
+          <line>130</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -445,45 +494,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/app/WebsocketDemoApplication.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/app/model/ChatMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/app/config/WebSocketConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/app/enums/MessageType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -494,10 +508,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/enums/MessageType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/model/ChatMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/app/controller/ChatController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="93" column="67" selection-start-line="93" selection-start-column="55" selection-end-line="93" selection-end-column="67" />
+        <state relative-caret-position="175">
+          <caret line="86" column="4" lean-forward="true" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

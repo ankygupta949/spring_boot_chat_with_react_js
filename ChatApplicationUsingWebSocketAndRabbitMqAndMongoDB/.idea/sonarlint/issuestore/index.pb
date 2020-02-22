@@ -15,3 +15,5 @@ X
 (src/main/java/app/enums/MessageType.java,8/f/8f021554922ae8b56da83b6bd15192bf2104bd74
 Y
 )src/main/java/app/model/GroupMessage.java,9/1/917c812d42698bc1799fce32427bde00bf82133b
+Q
+!src/main/java/app/model/User.java,2/c/2c7b0299a72ed2be70d1e589a8ac5c165eec5070

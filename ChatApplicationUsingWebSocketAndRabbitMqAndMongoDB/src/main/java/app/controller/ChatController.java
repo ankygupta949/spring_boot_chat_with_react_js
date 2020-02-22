@@ -12,17 +12,24 @@ import org.springframework.messaging.simp.SimpMessageHeaderAccessor;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Controller;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
+
+
+
 @Controller
 public class ChatController {
 
     private static final Logger logger = LoggerFactory.getLogger(ChatController.class);
-    /*--------------------Private chat--------------------*/
     @Autowired
     private SimpMessagingTemplate simpMessagingTemplate;
 
-    /*-------------------- Group (Public) chat--------------------*/
+    /*-------------------below 4 API's are accessed by react_client_chat_application-------------------------*/
+
+
     @MessageMapping("/sendMessage")
-    @SendTo("/topic/pubic")
+    @SendTo("/topic/pubic") // (used to send the message to topic)
     public ChatMessage sendMessage(@Payload ChatMessage chatMessage) {
         logger.info("ChatController -------> sendMessage");
         return chatMessage;
@@ -37,6 +44,10 @@ public class ChatController {
 
         // Add user in web socket session
         headerAccessor.getSessionAttributes().put("username", chatMessage.getSender());
+
+        //convertAndSend method is same as @sendTo
+        //but @sendTo method doesn't work with clent at different port
+        //so we used convertAndSend method
         simpMessagingTemplate.convertAndSend("/topic/public", chatMessage);
 
         return chatMessage;
@@ -72,6 +83,30 @@ public class ChatController {
         return chatMessage;
     }
 
+
+
+
+
+
+    /*-------------------below 3 API's are accessed by react_client_chat_app-------------------------*/
+
+    @MessageMapping("/addChatUser")
+    public GroupMessage addChatUser(@Payload GroupMessage groupMessage,
+                               SimpMessageHeaderAccessor headerAccessor) {
+
+        logger.info("ChatController -------> addUser");
+
+        // Add user in web socket session
+        groupMessage.getUsers().forEach(it->{
+
+            headerAccessor.getSessionAttributes().put("username",it.getUsername());
+        });
+        simpMessagingTemplate.convertAndSend("/topic/public", groupMessage);
+
+        return groupMessage;
+    }
+
+
     @MessageMapping("/addGroupUsers")
     // @SendTo("/queue/reply")
     public void addGroupUsers(@Payload GroupMessage groupMessage,
@@ -83,7 +118,8 @@ public class ChatController {
             headerAccessor.getSessionAttributes().put("Group-username", user);
         });
         System.out.println("group message user list => "+groupMessage.getUsers());
-        groupMessage.getUsers().forEach(it -> {
+        List<String> usernames=groupMessage.getUsers().stream().map(it->it.getUsername()).collect(Collectors.toList());
+        usernames.forEach(it -> {
 
             simpMessagingTemplate.convertAndSendToUser(it.toLowerCase(), "/reply", groupMessage);
         });
