@@ -2,32 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b58cc37-c9a2-48b9-9b94-252794ed8a2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../react_client_chat_app/src/app/components/UserMessages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/440d082ba1a21f8126008f7aa88a33934568cd4c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/440d082ba1a21f8126008f7aa88a33934568cd4c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c37d32388afbf450256b82f301c0db4205f77000" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/3/c37d32388afbf450256b82f301c0db4205f77000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f29ed038434abd7e80f2eeb82c580b6104d1f4c6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f29ed038434abd7e80f2eeb82c580b6104d1f4c6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/controller/ChatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/controller/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/controller/ChatController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/model/GroupMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/model/GroupMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/5/0/50c72663d5be3fd5b55fa5a5f130b2bebfd2526a" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/5/0/50c72663d5be3fd5b55fa5a5f130b2bebfd2526a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/a/e/aeecb04da2f19061ec90a4dd522bd0711bd467d6" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/a/e/aeecb04da2f19061ec90a4dd522bd0711bd467d6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/d/6/d637d84cf79965b11fe5381f80baef753610726f" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/d/6/d637d84cf79965b11fe5381f80baef753610726f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/e/b/eb8beec928acf82226b22c20df5ec4dacf422ac9" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/e/b/eb8beec928acf82226b22c20df5ec4dacf422ac9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/dist/app/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/dist/app/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/src/app/components/chatBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/src/app/components/chatBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/src/app/reducers/rootreducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/src/app/reducers/rootreducers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_app/src/app/reducers/userreducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_app/src/app/reducers/userreducers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/1/7/17119328d892a87a259bb4ad2ff965e11eae7857" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/1/7/17119328d892a87a259bb4ad2ff965e11eae7857" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/3/5/35a1d4d30e322e7c9f4dc92eedaf92e97b72d211" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/3/5/35a1d4d30e322e7c9f4dc92eedaf92e97b72d211" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/5/f/5fa001ce9b45c0f4c30097163870a47608225553" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_application/.idea/sonarlint/issuestore/5/f/5fa001ce9b45c0f4c30097163870a47608225553" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_application/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react_client_chat_application/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react_client_chat_application/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/sonarlint/issuestore/2/c/2c7b0299a72ed2be70d1e589a8ac5c165eec5070" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/sonarlint/issuestore/4/4/440d082ba1a21f8126008f7aa88a33934568cd4c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/sonarlint/issuestore/8/f/8f021554922ae8b56da83b6bd15192bf2104bd74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/sonarlint/issuestore/9/1/917c812d42698bc1799fce32427bde00bf82133b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/sonarlint/issuestore/b/0/b07cfeb449051bdf601b707c4669c5ff01d0a932" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/sonarlint/issuestore/c/3/c37d32388afbf450256b82f301c0db4205f77000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/sonarlint/issuestore/f/1/f14419188a9445d6b1988ca935096dc05d09136a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/sonarlint/issuestore/f/2/f29ed038434abd7e80f2eeb82c580b6104d1f4c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/thriftCompiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/src/main/java/app/WebsocketDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/src/main/java/app/config/WebSocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/src/main/java/app/controller/ChatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/src/main/java/app/controller/WebSocketEventListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/src/main/java/app/enums/MessageType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/src/main/java/app/model/ChatMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/src/main/java/app/model/GroupMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/src/main/java/app/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/target/classes/app/WebsocketDemoApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/target/classes/app/config/WebSocketConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/target/classes/app/controller/ChatController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/target/classes/app/controller/WebSocketEventListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/target/classes/app/enums/MessageType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/target/classes/app/model/ChatMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/target/classes/app/model/GroupMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/target/classes/app/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB/target/classes/application.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,9 +60,9 @@
     <session id="868112985">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
@@ -60,7 +70,7 @@
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -77,14 +87,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="74126480">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="62" column="12" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+            <state relative-caret-position="187">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -106,11 +125,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/app/controller/ChatController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="86" column="4" lean-forward="true" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
+            <state relative-caret-position="1241">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,7 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/app/model/ChatMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="85">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -151,7 +170,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="68">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -215,7 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/app/config/WebSocketConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/app/model/ChatMessage.java" />
@@ -224,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/main/java/app/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/app/controller/ChatController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -252,8 +271,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -334,6 +351,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,8 +362,8 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582295057363" />
-    <property name="last_opened_file_path" value="$USER_HOME$/TTN/projects/motus/bankingapp" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582376024700" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -372,7 +391,7 @@
   </component>
   <component name="RunManager">
     <configuration name="WebsocketDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="ChatApplicationUsingWebSocketAndRabbitMqAndMongoDB" />
+      <module name="ChatApplicationUsingWebSocket" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="app.WebsocketDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -400,11 +419,13 @@
       <workItem from="1582105991349" duration="7660000" />
       <workItem from="1582187068363" duration="7277000" />
       <workItem from="1582370211451" duration="2658000" />
+      <workItem from="1582375578568" duration="461000" />
+      <workItem from="1582376108300" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47139000" />
+    <option name="totallyTimeSpent" value="47621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -420,7 +441,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21088435" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43367347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27118644" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -428,7 +449,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32993197" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
@@ -476,8 +497,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="12" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+        <state relative-caret-position="187">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -494,6 +515,26 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/app/WebsocketDemoApplication.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/controller/ChatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/model/ChatMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/app/config/WebSocketConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -508,20 +549,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/app/enums/MessageType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/app/model/ChatMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,30 +583,6 @@
             <element signature="e#266#267#0" expanded="true" />
             <element signature="e#314#315#0" expanded="true" />
             <element signature="e#354#355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/app/model/GroupMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/app/controller/ChatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="86" column="4" lean-forward="true" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
